@@ -1,6 +1,6 @@
 # KFC
 
-# 👋 Hi, I'm KFC
+# 👋 Hi
 
 ## 🎭 About Me:
 💻 Full Stack Developer  
